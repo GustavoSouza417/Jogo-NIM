@@ -1,12 +1,15 @@
 # Jogo-NIM
 
+
 ## HISTÓRIA DO JOGO
 
 O jogo NIM é um jogo de estratégia ancestral com raízes que remontam a várias culturas ao redor do mundo. Sua origem exata é incerta, mas variações do jogo foram documentadas em várias culturas ao longo da história. Uma das primeiras menções registradas do jogo foi feita no século XVIII, quando o matemático Charles L. Bouton descreveu uma versão francesa do jogo em seu livro "Mathematical Recreation". Desde então, o jogo ganhou popularidade e foi estudado em campos como teoria dos jogos e matemática recreativa.
 
+
 ## COMO O JOGO FUNCIONA
 
 O jogo NIM pode ser jogado com diferentes conjuntos de objetos, como palitos, pedras ou até mesmo moedas. Algumas versões do jogo possuem uma fileira única (como este jogo) e outras p;ossuem múltiplas fileiras. Os jogadores alternam turnos, removendo um número arbitrário de palitos da fileira em cada jogada. O jogador que remove o último palito é o perdedor.
+
 
 ## DICAS E ESTRATÉGIAS;
 
