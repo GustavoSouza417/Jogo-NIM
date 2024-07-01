@@ -11,7 +11,7 @@ O jogo NIM é um jogo de estratégia ancestral com raízes que remontam a vária
 O jogo NIM pode ser jogado com diferentes conjuntos de objetos, como palitos, pedras ou até mesmo moedas. Algumas versões do jogo possuem uma fileira única (como este jogo) e outras p;ossuem múltiplas fileiras. Os jogadores alternam turnos, removendo um número arbitrário de palitos da fileira em cada jogada. O jogador que remove o último palito é o perdedor.
 
 
-## DICAS E ESTRATÉGIAS;
+## DICAS E ESTRATÉGIAS
 
 1) Antes de começar a jogar, certifique-se de compreender completamente as regras do jogo, incluindo o número máximo de palitos que podem ser removidos em cada turno;
 
